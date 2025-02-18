@@ -1,0 +1,39 @@
+<ASSEMBLER_INFO>
+ <VERSION>2.2.8</VERSION>
+ <DEVICE>"ATmega328P"</DEVICE>
+ <WORKING_DIR>c:\users\sarae\Documents\Atmel Studio\7.0\Laboratorio2\Laboratorio2\Debug</WORKING_DIR>
+ <INCLUDE_PATH>
+  <DIR>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.7.374\avrasm\inc</DIR>
+  <DIR>C:\Program Files (x86)\Atmel\Studio\7.0\toolchain\avr8\avrassembler\Include</DIR>
+  <DIR></DIR>
+ </INCLUDE_PATH>
+ <SOURCE_FILE>c:\users\sarae\Documents\Atmel Studio\7.0\Laboratorio2\Laboratorio2\main.asm</SOURCE_FILE>
+ <INCLUDED_FILES>
+  <FILE>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.7.374\avrasm\inc\m328Pdef.inc</FILE>
+  <FILE>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.7.374\avrasm\inc\M328PDEF.inc</FILE>
+ </INCLUDED_FILES>
+ <OBJECT_FILES>
+  <FILE>c:\users\sarae\Documents\Atmel Studio\7.0\Laboratorio2\Laboratorio2\Debug\Laboratorio2.obj</FILE>
+ </OBJECT_FILES>
+ <HEX_FILES>
+  <FILE>Laboratorio2.hex</FILE>
+ </HEX_FILES>
+ <OUTPUT_FILES>
+  <FILE>Laboratorio2.map</FILE>
+  <FILE>Laboratorio2.lss</FILE>
+ </OUTPUT_FILES>
+ <LABELS>
+  <SETUP><FILE>c:\users\sarae\Documents\Atmel Studio\7.0\Laboratorio2\Laboratorio2\main.asm</FILE><LINE>20</LINE></SETUP>
+  <MT><FILE>c:\users\sarae\Documents\Atmel Studio\7.0\Laboratorio2\Laboratorio2\main.asm</FILE><LINE>30</LINE></MT>
+  <LOOP><FILE>c:\users\sarae\Documents\Atmel Studio\7.0\Laboratorio2\Laboratorio2\main.asm</FILE><LINE>47</LINE></LOOP>
+  <CHECK_INC><FILE>c:\users\sarae\Documents\Atmel Studio\7.0\Laboratorio2\Laboratorio2\main.asm</FILE><LINE>57</LINE></CHECK_INC>
+  <CHECK_DEC><FILE>c:\users\sarae\Documents\Atmel Studio\7.0\Laboratorio2\Laboratorio2\main.asm</FILE><LINE>64</LINE></CHECK_DEC>
+  <DELAY><FILE>c:\users\sarae\Documents\Atmel Studio\7.0\Laboratorio2\Laboratorio2\main.asm</FILE><LINE>104</LINE></DELAY>
+  <INC_COUNTER><FILE>c:\users\sarae\Documents\Atmel Studio\7.0\Laboratorio2\Laboratorio2\main.asm</FILE><LINE>74</LINE></INC_COUNTER>
+  <DEC_COUNTER><FILE>c:\users\sarae\Documents\Atmel Studio\7.0\Laboratorio2\Laboratorio2\main.asm</FILE><LINE>88</LINE></DEC_COUNTER>
+  <SKIP_RESET_INC><FILE>c:\users\sarae\Documents\Atmel Studio\7.0\Laboratorio2\Laboratorio2\main.asm</FILE><LINE>84</LINE></SKIP_RESET_INC>
+  <SKIP_UNDERFLOW><FILE>c:\users\sarae\Documents\Atmel Studio\7.0\Laboratorio2\Laboratorio2\main.asm</FILE><LINE>94</LINE></SKIP_UNDERFLOW>
+  <NO_DEC><FILE>c:\users\sarae\Documents\Atmel Studio\7.0\Laboratorio2\Laboratorio2\main.asm</FILE><LINE>97</LINE></NO_DEC>
+  <DELAY_LOOP><FILE>c:\users\sarae\Documents\Atmel Studio\7.0\Laboratorio2\Laboratorio2\main.asm</FILE><LINE>107</LINE></DELAY_LOOP>
+ </LABELS>
+</ASSEMBLER_INFO>
